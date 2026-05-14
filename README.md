@@ -40,12 +40,8 @@ python fuzzy_restoran.py
   - Harga
   - Skor Kelayakan
 
-## Catatan Teknis
+## Catatan
 
 - Program tidak menggunakan library fuzzy apapun; semua proses dibangun dari nol.
 - Metode defuzzifikasi: Centroid.
 - Metode inferensi: Mamdani.
-
-## Kontribusi
-
-Untuk pertanyaan atau kontribusi, silakan buat issue atau pull request di repository ini.
