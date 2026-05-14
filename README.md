@@ -1,8 +1,4 @@
-# Sistem Fuzzy Logic - Seleksi 5 Restoran Terbaik
-
-**Mata Kuliah:** Kecerdasan Buatan  
-**Program Studi:** S1 Rekayasa Perangkat Lunak  
-**Universitas:** Telkom  
+# Sistem Fuzzy Logic - Seleksi 5 Restoran Terbaik 
 
 ## Deskripsi
 
